@@ -1,5 +1,10 @@
 # News
 
+## development
+
+* `custom_match` now suppresses ambiguity and duplicate-match warnings for overridden values. Thanks to [@victorhartman](https://github.com/victorhartman) and [@NilsEnevoldsen](https://github.com/NilsEnevoldsen) for the report and analysis (Issue [#364](https://github.com/vincentarelbundock/countrycode/issues/364)).
+* Update many dictionaries to the latest versions from publishing organizations. Thanks to [@NilsEnevoldsen](https://github.com/NilsEnevoldsen).
+
 ## countrycode 1.6.1
 
 * The `simplify` argument in `apply` was introduced in R 4.1.0. We used it, which broke usage of countrycode on older versions of R.
