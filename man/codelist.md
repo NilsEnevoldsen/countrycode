@@ -291,6 +291,11 @@ Development Indicators (legacy)
 </li>
 <li>
 
+<code>telephone</code>: ITU-T E.164 country codes for telecommunication
+
+</li>
+<li>
+
 <code>un.name.ar</code>: United Nations Arabic country name
 
 </li>
